@@ -1,17 +1,16 @@
 ## 🧑‍💼 Mis Datos
 - **Nombre:** Miguel
 - **Apellido:** Polanco
-- **Teléfono:** +58412-819-68-52
+- **Teléfono:** +584128196852
 
 
 # Hack_challenge_4 - hack_python_1 ⚡
 
 | Hack | URL |
 | ------ | ------ |
-| hack_Python_1⚡ | https://github.com/migueltim/hack_challenge_4 |
+| hack_Python_1⚡ | https://github.com/migueltim/hack_python_1 |
 
 # Test de python
-![image](https://github.com/user-attachments/assets/b68789ea-0055-4546-945b-b0e1985a031a)
-
+<img width="1547" height="554" alt="image" src="https://github.com/user-attachments/assets/7a630bd5-0a4c-4868-b8ef-9f8b3c79d369" />
 
 Detalle: https://github.com/SocialOplesk/hack_python_1
